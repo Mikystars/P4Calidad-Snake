@@ -1,16 +1,15 @@
 package com.miguel.maven.eclipse;
 
-/**
- * Hello world!
- *
- */
+
 import javax.swing.JFrame;
+
 public class App {
 
 	public static void main(String[] args) {
+		// Cambio sobre el codigo a ver si funciona el commit y push
 
 		//Creating the window with all its awesome snaky features
-		Window f1= new Window();
+		Window f1 = new Window();
 		
 		//Setting up the window settings
 		f1.setTitle("Snake");
